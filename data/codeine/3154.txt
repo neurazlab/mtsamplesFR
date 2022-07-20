@@ -11,10 +11,10 @@ Elle a eu une diminution de l'appétit, mais son poids est resté stable. Elle n
 Elle a récemment eu un TDM du thorax et de l'abdomen, qui a montré les éléments suivants : présence dans la poitrine, d'une petite hernie hiatale et une calcification dans la région de la valve mitrale. Un ganglion médiastinal légèrement hypertrophié. Plusieurs zones d'opacité en verre dépoli ont été notées dans les poumons inférieurs, qui étaient subtiles et non spécifiques. Aucune masse pulmonaire n'a été notée. Dans l'abdomen, il n'y avait aucune anomalie ni du foie, ni du pancréas, ni de la rate ou de la glande surrénale gauche. Présence sur la glande surrénale droite, d'un adénome surrénalien droit de 17 x 13 mm. Il y avait quelques masses rénales bilatérales présentes, qui n'ont pas pu être évalués de manière optimale en raison de l'absence de produit de contraste. Un foyer hyperdense dans le pôle inférieur du rein gauche a été ressenti comme représentant très probablement un kyste rénal hémorragique. Il était inchangé par rapport à février et mesurait 9 mm. Des ganglions mésentériques ont été observés, d'apparence similaire à l'étude précédente, qui étaient un peu plus visibles en raison de l'intestin opacifié qui leur était adjacent. Il y avait une masse omentale en conglomérat, dont le volume avait diminué par rapport à l'étude précédente, mesurant maintenant 8,4 x 1,6 cm. Dans le bassin, il y avait une petite quantité d'ascite à droite s'étendant jusqu'à la gouttière paracolique inférieure droite. Aucune lésion osseuse suspecte n'a été notée.
 
 MÉDICAMENTS ACTUELS : 
-Norco 10 pour 325 un à deux p.o. q.4h. si douleur, 
-aténolol 50 mg comprimés oraux b.i.d., 
-Levoxyl 75 mcg p.o. par jour, 
-Phenergan 25 mg p.o. q.4-6h. p.r.n. nausées, 
+Vicodin 10 pour 325 un à deux comprimés toutes les 4h si douleur, 
+Aténolol 50 mg comprimé 2/j, 
+Lévothyroxine 75 mcg p.o. 1/j, 
+Phénergan 25 mg p.o. q.4-6h. p.r.n. nausées, 
 Lorazépam 0,5 mg toutes les 8 heures au besoin pour l'anxiété, 
 Ventoline HFA 2 bouffées q.6h. p.r.n., 
 Plavix 75 mg p.o. tous les jours, 
@@ -27,7 +27,6 @@ LA PATIENTE DÉCLARE QU'À L'OCCASION LA PRISE DE LORAZEPAM ELLE AVAIT EU DES HA
 
 
 EXAMEN CLINIQUE :
-
 La patient mesure 165 cm, son poids est de 77 kg. La SC est de 1,8 m². Pression artérielle de 158/75, une FC à 61 par minute avec un rythme sinusal régulier, une température de 36 degrés, une fréquence respiratoire de 18 avec une SpO2 de 100 % à l'air ambiant.
 
 GÉNÉRAL : Elle est normalement développée ; bien nourri; très coopératif; orienté vers la personne, le lieu et le temps; et pas en détresse pour le moment. Elle est anictérique.
@@ -46,4 +45,5 @@ IMPRESSION DIAGNOSTIQUE
 3. Antécédents d'hypertension.
 4. Maladie bipolaire de type 1.
 
-PLAN : , Le patient subira des examens de laboratoire appropriés. Une échographie rénale gauche est demandée pour mieux délimiter l'éventuel kyste hémorragique du pôle inférieur gauche du rein gauche. La radiologie interventionnelle accédera aux orifices de l'abdomen. Elle recevra une chimiothérapie par voie intrapéritonéale. Le plan sera d'utiliser du Taxol intrapéritonéal.
+PLAN : 
+Le patient subira des examens de laboratoire appropriés. Une échographie rénale gauche est demandée pour mieux délimiter l'éventuel kyste hémorragique du pôle inférieur gauche du rein gauche. La radiologie interventionnelle accédera aux orifices de l'abdomen. Elle recevra une chimiothérapie par voie intrapéritonéale. Le plan sera d'utiliser du Taxol intrapéritonéal.
