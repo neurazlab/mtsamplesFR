@@ -2,10 +2,12 @@
 
 | Abbréviation                     | Traduction                             |
 | -------------------------------- |:---------------------------------------| 
-| CMP                              | ionogramme sanguin \| iono             |
-| CBC (complete blood count)       | NFS                                    |
 | ANS (absolute neutrophyle count) | neutrophiles                           |
-| h.s.                             | le soir                                |
-| q.i.d.                           | 4 fois par jour \| toutes les 6 heures |
 | b.i.d.                           | 2 fois par jour \| matin et soir       |
+| BSA                              | surface corporelle \| SC               | 
+| CBC (complete blood count)       | NFS                                    |
+| CMP                              | ionogramme sanguin \| iono             |
+| h.s.                             | le soir                                |
 | PT                               | TP                                     | 
+| q.i.d.                           | 4 fois par jour \| toutes les 6 heures |
+
