@@ -1,1 +1,31 @@
-PLAINTE PRINCIPALE : , Polycythemia rubra vera., ANTÉCÉDENTS DE LA MALADIE ACTUELLE : , La patiente est une femme de 83 ans ayant des antécédents de polyglobulie vera. Elle vient à la clinique aujourd'hui pour un suivi. Elle n'a pas eu besoin de saignées depuis plusieurs mois. Le patient se présente à la clinique non accompagné.,MÉDICAMENTS ACTUELS : , Lévothyroxine 200 mcg q.d., Nexium 40 mg q.d., Celebrex 200 mg q.d., vitamine D3 2000 UI q.d., aspirine 81 mg q.d., sélénium 200 mg q.d., Aricept 10 mg q.d., Skelaxin 800 mg q.d., ropinirole 1 mg q.d., vitamine E 1000 UI q.d., vitamine C 500 mg q.d., huile de lin 100 mg par jour, huile de poisson 100 unités q.d., Vicodin q.h.s., et émollient fécal q.d.,ALLERGIES : ,Pénicilline.,EXAMEN DES SYSTÈMES : ,La principale plainte de la patiente est son poids. Elle apporte un paquet d'informations sur HCZ Diovan et également une évaluation métabolique qui a été effectuée à la clé. Elle se demande s'il y aurait ou non des contre-indications à son régime. Sinon, elle se sent bien. Elle avait une réunion de famille dans l'Iowa une fois tous les quatre jours là-bas. Elle continue de faire du bénévolat à l'hôpital et marche et profite de son été. Elle nie toute fièvre, frissons ou sueurs nocturnes. Elle a un léger problème de constipation, mais il est sous contrôle. Le reste de son examen des systèmes est négatif.,EXAMEN PHYSIQUE :,VITALS :
+PLAINTE PRINCIPALE : 
+Polycythemia rubra vera.
+
+ANTÉCÉDENTS DE LA MALADIE ACTUELLE : 
+La patiente est une femme de 83 ans ayant des antécédents de polyglobulie vera. Elle vient à la clinique aujourd'hui pour un suivi. Elle n'a pas eu besoin de saignées depuis plusieurs mois. Le patient se présente à la clinique non accompagné.
+
+MÉDICAMENTS ACTUELS : 
+Lévothyroxine 200 mcg q.d.
+Nexium 40 mg q.d.
+Celebrex 200 mg q.d.
+vitamine D3 2000 UI q.d.
+aspirine 81 mg q.d.
+sélénium 200 mg q.d.
+Aricept 10 mg q.d.
+Skelaxin 800 mg q.d.
+ropinirole 1 mg q.d.
+vitamine E 1000 UI q.d.
+vitamine C 500 mg q.d.
+huile de lin 100 mg par jour
+huile de poisson 100 unités q.d.
+Vicodin q.h.s.
+et émollient fécal q.d.
+
+ALLERGIES : 
+Pénicilline.
+
+EXAMEN DES SYSTÈMES : 
+La principale plainte de la patiente est son poids. Elle apporte un paquet d'informations sur HCZ Diovan et également une évaluation métabolique qui a été effectuée à la clé. Elle se demande s'il y aurait ou non des contre-indications à son régime. Sinon, elle se sent bien. Elle avait une réunion de famille dans l'Iowa une fois tous les quatre jours là-bas. Elle continue de faire du bénévolat à l'hôpital et marche et profite de son été. Elle nie toute fièvre, frissons ou sueurs nocturnes. Elle a un léger problème de constipation, mais il est sous contrôle. Le reste de son examen des systèmes est négatif.
+
+EXAMEN PHYSIQUE :
+VITALS :
