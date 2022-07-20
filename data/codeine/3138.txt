@@ -1,2 +1,18 @@
-DIAGNOSTIC PRINCIPAL :
-Adénosarcome de Muller. ,HISTOIRE DE LA MALADIE ACTUELLE : , La patiente est âgée de 56 ans et présente une grosse masse avortée par le col de l'utérus.,EXAMEN PHYSIQUE :,POITRINE : Clair. Il n'y a pas de souffle cardiaque.,ABDOMEN : Non sensible.,PELVIEN : Il y a une grosse masse dans le vagin. ,COURS HOSPITALIER : , Le patient s'est rendu en chirurgie le jour de son admission. L'évolution postopératoire a été marquée par de la fièvre et un iléus. Le patient a retrouvé la fonction intestinale. Elle est sortie le matin du septième jour postopératoire.,OPÉRATIONS : , 25 juillet 2006 : Hystérectomie abdominale totale, salpingo-ovariectomie bilatérale.,CONDITION DE SORTIE : , Stable., ,PLAN : , La patiente restera initialement au repos avec déambulation progressive par la suite. Elle évitera de soulever, de conduire, des escaliers ou des rapports sexuels. Elle m'appellera en cas de fièvre, de drainage, de saignement ou de douleur. Antécédents familiaux, antécédents sociaux et besoins psychosociaux selon le travailleur social. Le patient sera suivi dans mon cabinet dans une semaine.,PATHOLOGIE :, Adénosarcome de Muller.,MÉDICAMENTS :, Percocet 5, #40, un q.3 h. p.r.n. douleur.
+Motif d'hospitalisation :
+Patiente de 56 ans présentant un adénosarcome de Muller
+
+Histoire de la maladie :
+Grosse masse avortée par le col de l'utérus
+
+EXAMEN PHYSIQUE 
+Grosse masse dans utérine s'extériorisant dans le vagin par le col
+Reste de l'examen clinique sans particularités
+
+Evolution au cours du séjour :
+Opération à J0 de l'admission d'une hystérectomie totale par voie abdominale avec salpingo-ovariectomie bilatérale. Evolution postopératoire marquée par de la fièvre et un iléus. Récupération rapide du transit. Sortie à domicile à J7
+
+Traitement de sortie :
+Oxycodone 5mg/3h si douleur
+
+Consignes post-opératoire :
+Reprise de la déambulation. Eviter de soulever/conduire/emprunter des escaliers/avoir des rapports sexuels. Contacter le chirurgien en cas de fièvre/écoulement/saignement/douleur. Consultation de suivi à 1 semaine
