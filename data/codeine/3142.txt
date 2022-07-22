@@ -1,1 +1,19 @@
-PLAINTE PRINCIPALE : , Lymphome de la zone marginale.,ANTÉCÉDENTS DE LA MALADIE ACTUELLE : , Il s'agit d'une femme de 46 ans très agréable, que l'on me demande de voir en consultation pour un lymphome de la zone marginale (lymphome de type MALT) nouvellement diagnostiqué. Une masse a été trouvée dans son sein droit lors d'un examen physique. Le 19/07/10, elle a passé une mammographie et une échographie, qui ont confirmé la masse du sein droit. Le 30/07/10, elle a subi une biopsie, qui a montré un lymphome de la zone marginale (lymphome de type MALT). Dans l'ensemble, elle va bien. Elle a un bon niveau d'énergie et son statut de performance ECOG est de 0. Elle nie toute fièvre, frissons ou sueurs nocturnes. Pas d'adénopathie. Pas de nausées ni de vomissements. Elle a des habitudes intestinales et vésicales normales. Pas de méléna ni d'hématochézie.,MÉDICAMENTS ACTUELS : ,Macrobid 100 mg q.d.,ALLERGIES : ,Sulfa, provoque des nausées et des vomissements.,EXAMEN DES SYSTÈMES : , Selon le HPI, sinon négatif.,ANTÉCÉDENTS MÉDICAUX :,1. Elle est en statut après une néphrectomie partielle gauche en tant que nouveau-né.,2. En 2008, elle a eu une fracture de la cheville droite.,ANTÉCÉDENTS SOCIAUX : , Elle a un antécédent de tabagisme de 20 paquets. Elle a une consommation d'alcool rare. Elle ne consomme pas de drogues illicites. Elle est en train de divorcer. Elle a un fils de 24 ans dans la région et une fille de 22 ans.,HISTOIRE FAMILIALE : ,Sa mère avait un cancer de l'utérus. Son père avait un cancer du foie.,EXAMEN PHYSIQUE :,VIT :
+PLAINTE PRINCIPALE : 
+Lymphome de la zone marginale.
+
+ANTÉCÉDENTS DE LA MALADIE ACTUELLE : 
+Il s'agit d'une femme de 46 ans très agréable, que l'on me demande de voir en consultation pour un lymphome de la zone marginale (lymphome de type MALT) nouvellement diagnostiqué. Une masse a été trouvée dans son sein droit lors d'un examen physique. Le 19/07/10, elle a passé une mammographie et une échographie, qui ont confirmé la masse du sein droit. Le 30/07/10, elle a subi une biopsie, qui a montré un lymphome de la zone marginale (lymphome de type MALT). Dans l'ensemble, elle va bien. Elle a un bon niveau d'énergie et son statut de performance ECOG est de 0. Elle nie toute fièvre, frissons ou sueurs nocturnes. Pas d'adénopathie. Pas de nausées ni de vomissements. Elle a des habitudes intestinales et vésicales normales. Pas de méléna ni d'hématochézie.
+
+MÉDICAMENTS ACTUELS : ,Macrobid 100 mg q.d.,
+
+ALLERGIES : ,Sulfa, provoque des nausées et des vomissements.,
+
+EXAMEN DES SYSTÈMES : , Selon le HPI, sinon négatif.,
+
+ANTÉCÉDENTS MÉDICAUX :,1. Elle est en statut après une néphrectomie partielle gauche en tant que nouveau-né.,2. En 2008, elle a eu une fracture de la cheville droite.,
+
+ANTÉCÉDENTS SOCIAUX : , Elle a un antécédent de tabagisme de 20 paquets. Elle a une consommation d'alcool rare. Elle ne consomme pas de drogues illicites. Elle est en train de divorcer. Elle a un fils de 24 ans dans la région et une fille de 22 ans.,
+
+HISTOIRE FAMILIALE : ,Sa mère avait un cancer de l'utérus. Son père avait un cancer du foie.,
+
+EXAMEN PHYSIQUE :,VIT :
