@@ -1,1 +1,41 @@
-RAISON DE LA CONSULTATION : , On nous a demandé de voir la patiente au sujet d'une tumeur au cerveau.,HISTOIRE DE LA MALADIE ACTUELLE : ,Elle a été initialement diagnostiquée en septembre de cette année avec un glioblastome multiforme. Elle a présenté plusieurs lésions au cerveau et une biopsie a confirmé le diagnostic. Elle a été vue par le Dr X dans notre groupe. En raison de son mode de vie, elle a choisi de se faire soigner par le service de radiothérapie et le service d'oncologie de l'hôpital. Les détails de son traitement ne sont pas disponibles au moment de cette dictée. Sa famille a un paquet de pilules Temodar 100 mg. Elle est admise maintenant avec une confusion croissante. Un scanner montre une augmentation de la taille des lésions par rapport au scanner préopératoire. On nous demande de commenter son traitement à ce stade. Elle-même est confuse et est incapable de fournir plus d'histoire. ,ANTÉCÉDENTS MÉDICAUX : , D'après son ancien dossier : aucun antécédent médical connu avant le diagnostic.,ANTÉCÉDENTS SOCIAUX : ,Elle vivait seule et vit maintenant dans une résidence-services. ,MÉDICAMENTS,1. Dilantin 300 mg par jour.,2. Halopéridol 1 mg h.s.,3. Dexaméthasone 4 mg q.i.d. ,4. Docusate 100 mg b.i.d.,5. Pen-VK 500 mg par jour.,6. Ibuprofène 600 mg par jour.,7. Zantac 150 mg deux fois par jour.,8. Témodar 100 mg par jour.,9. Bain de bouche magique tous les jours.,10. Tylenol #3 au besoin.,EXAMEN DES SYSTÈMES, : Impossible.,EXAMEN PHYSIQUE,GÉNÉRAL : Femme âgée, confuse. ,HEENT : Conjonctive normale. Oreilles et nez normaux. Bouche normale.,COU : Souple.,POITRINE : Claire.,CŒUR : Normal.,ABDOMEN : Bruits intestinaux doux et positifs.,NEUROLOGIQUE : Alerte, nerfs crâniens intacts. Bras gauche un peu faible. Jambe gauche légèrement faible.,IMPRESSION ET PLAN :, Glioblastome multiforme, incertain quant à l'endroit où elle se trouve dans le traitement du cancer. Compte tenu du nombre de pilules dans les mains de la famille de la patiente, il semble qu'elle n'ait été traitée que récemment et il n'est donc pas surprenant qu'elle présente des problèmes accrus liés à l'augmentation de la taille de la tumeur. Nous devrons discuter avec le Dr Y à la clinique pour mieux comprendre son régime de traitement. À ce stade, je vais tenir Temodar aujourd'hui et envisager de le redémarrer demain si nous pouvons clarifier son plan de traitement.
+MOTIF DE CONSULTATION :
+Tumeur cérébrale. 
+
+HISTOIRE DE LA MALADIE ACTUELLE : 
+Il s'agit d'une patiente chez qui il a été diagnostiqué un glioblastome multiforme. Elle présente plusieurs lésions au cerveau et une biopsie a confirmé le diagnostic. Elle a été vue chez nous par le Dr X. En raison de sa perte d'autonomie elle a fait le choix d'un traitement par radiothérapie et chimiothérapie. Je n'ai pas les détails de son traitement ne sont pas disponibles au moment où je dicte ce courrier mais sa famille a amener un blister de Témozolomide 100mg. 
+Elle est admise ce jour pour confusion d'aggravation croissante. Le scanner réalisé à l'entrée montre une augmentation de la taille des lésions par rapport au scanner précédent. Elle-même est confuse et est incapable de fournir plus d'élément.
+Il nous ai demandé de reconsidérer la prise en charge.
+
+ANTÉCÉDENTS MÉDICAUX : 
+D'après son ancien dossier : aucun antécédent médical connu avant le diagnostic.
+
+ANTÉCÉDENTS SOCIAUX : 
+Elle vivait seule et vit maintenant dans une résidence pour personnes agées.
+
+MÉDICAMENTS : 
+1. Dilantin 300 mg par jour
+2. Halopéridol 1 mg le soir
+3. Dexaméthasone 4 mg toutes les 6 heures
+4. Jamylène 100 mg matin et soir
+5. Oracilline 500 mg par jour
+6. Ibuprofène 600 mg par jour
+7. Ranitidine 150 mg deux fois par jour
+8. Témozolomide 100 mg par jour
+9. Bain de bouche tous les jours
+10. Paracétamol #3 au besoin
+
+SIGNES FONCTIONNELS : intérrogatoire impossible
+
+EXAMEN PHYSIQUE
+GÉNÉRAL : Femme âgée, confuse.
+
+ORL : Conjonctive normale. Oreilles et nez normaux. Bouche normale.
+NUQUE : Souple.
+AUSCULATATION PULMONAIRE : Claire.
+BRUITS DU CŒUR : Normaux.
+ABDOMEN : Bruits intestinaux perçus.
+NEUROLOGIQUE : Examen des paires crâniennes normal.
+Déficit moteur membres supérieur et inférieur gauches 4/5. 
+
+CONCLUSION ET CAT : 
+Glioblastome multiforme, stade de prise en charge non connu. On déduit du nombre de pillules qu'à retrouvé son entourage que le traitement a débuté récemment et il n'est donc pas surprenant qu'elle présente des problèmes accrus liés à l'augmentation de la taille de la tumeur. Nous devrons discuter avec le Dr Y à la clinique pour mieux comprendre son traitement. À ce stade, on suspend le Témozolomide et on envisagera de le redémarrer demain en fonction des informations sur son traitement.
