@@ -1,1 +1,19 @@
-DIAGNOSTIC PRINCIPAL :, Mésothéliome.,DIAGNOSTICS SECONDAIRES :, Épanchement pleural, fibrillation auriculaire, anémie, ascite, reflux œsophagien et antécédents de thrombose veineuse profonde.,PROCÉDURES,1. Le 24 août 2007, décortication du poumon avec biopsie pleurale et radioscopie transpleurale.,2. Le 20 août 2007, thoracentèse.,3. Le 31 août 2007, placement à Port-A-Cath., HISTOIRE ET PHYSIQUE : , La patiente est une femme vietnamienne de 41 ans avec une toux non productive qui a commencé la semaine dernière. Elle a eu des douleurs thoraciques du côté droit irradiant dans son dos avec de la fièvre depuis hier. Elle a des antécédents de péricardite et de péricardectomie en mai 2006 et a développé une toux avec des douleurs thoraciques du côté droit, et s'est rendue dans un centre de soins d'urgence. La radiographie pulmonaire a révélé un épanchement pleural du côté droit.,ANTÉCÉDENTS MÉDICAUX,1. Péricardectomie.,2. Péricardite.,2. Fibrillation auriculaire.,4. RNCA avec traitement thrombolytique intracrânien.,5
+DIAGNOSTIC PRINCIPAL : Mésothéliome.
+
+ANTECEDENTS MEDICAUX :
+épanchement pleural, 
+fibrillation auriculaire, 
+anémie, ascite, 
+reflux œsophagien
+antécédents de thrombose veineuse profonde.
+
+ANTECEDENTS CHIRURGICAUX EN RAPPORT AVEC LE MESOTHELIOME :
+1. Mai 2006 : péricardite et péricardectomie
+1. Le 24 août 2007: décortication pulmonaire, biopsie pleurale et radioscopie transpleurale
+2. Le 20 août 2007: ponction pleurale
+3. Le 31 août 2007: mise en place d'un Port-A-Cath.
+
+HISTOIRE DE LA MALADIE :
+Patiente de 41 ans d'origine vietnamienne.
+Elle se présente aux urgences pour une toux non productive depuis la semaine dernière associée depuis hier à des douleurs thoraciques droites irradiant dans le dos et de la fièvre. 
+La radiographie pulmonaire a révélé un épanchement pleural droit.
