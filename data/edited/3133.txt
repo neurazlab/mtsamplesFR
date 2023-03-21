@@ -1,0 +1,48 @@
+Motif de consultation :
+Nouveau diagnostic de cancer du poumon non à petites cellules
+
+ATCD : néant
+Allergies : néant
+
+Traitement habituel : néant
+
+Mode de vie :
+Tabagisme 30PA non sevré
+OH excessif (perte du permis poids-lourds suite à conduit en état d'ivresse il y a 18 mois)
+Travaille dans une imprimerie
+Mairé, 2 enfant adultes
+Pas d'ATCD familiaux
+
+Histoire de la maladie :
+Patient de 47 ans venant d'être diagnostiqué d'un CBNPC stade IV métastatique. Je le vois pour discuter des possibilités thérapeutiques. ABCD et sa femme déclarent que le début des symptômes remonte à environ 2-2-1/2 semaines quand il a développé une douleur au flanc gauche. Au début, il n'y a pas prêté attention et a essayé de continuer à travailler, mais la douleur s'est progressivement aggravée. Finalement, cela l'a incité à se présenter aux urgences. Une tomodensitométrie y a été effectuée montrant une masse surrénalienne gauche. Transfert à l'hôpital XYZ pour une évaluation approfondie.
+Lors de l'admission le 19/12/08, une tomodensitométrie du thorax, de l'abdomen et du bassin a été effectuée à des fins de stadification complète :
+- masse anormale des tissus mous dans la région paratrachéale droite, s'étendant dans la région précarinée, la région sous-carinée et le hile droit, entraînant une compression de la face inférieure de la VCS ainsi qu'un rétrécissement de l'artère pulmonaire du lobe supérieur droit
+- ganglion lymphatique anormal noté dans la fenêtre AP et la région hilaire gauche
+- masse spiculée dans le lobe supérieur droit mesurant 2,0 x 1,5 cm
+- nodule non calcifié de 8 mm noté dans la face postéro-inférieure du lobe supérieur gauche suspect de maladie métastatique
+- zones d'atélectasie en particulier dans la base droite
+- légère opacité en verre dépoli dans le lobe supérieur droit adjacent au hile droit représentant potentiellement la zone focale de l'œdème pulmonaire par rapport à un petit infarctus lié au rétrécissement de l'artère pulmonaire du lobe supérieur droit
+- légère clarté adjacente à la face médiale du lobe supérieur gauche compatible avec un petit pneumothorax
+- masse de la glande surrénale gauche et nodule de la glande surrénale droite paraissant tous deux nécrotiques et compatibles avec une tumeur métastatique - reste des structures paraissant normales
+Le 22/12/08, une biopsie guidée par scanner de la masse surrénalienne gauche a été réalisée, montrant un carcinome non à petites cellules métastatique mal différencié. À ce stade, nous avons été consultés pour discuter d'autres options de traitement.
+Après un examen plus approfondi, ABCD déclare qu'il a peut-être eu une perte de poids de 9kg au cours des deux derniers mois, ce qu'il associe à une diminution de l'appétit. Il n'a jamais eu de toux chronique du fumeur et ne tousse toujours pas. Il n'a pas d'expectoration ni d'hémoptysie. Lui et sa femme sont très anxieux à propos de ce diagnostic
+
+Examen clinique :
+Sa FC est de 85 bpm, sa FR de 18/min et sa tension artérielle de 126/80 saturant à plus de 90 % en air ambiant
+A perdu environ 9kg de poids comme décrit ci-dessus. Asthénie.
+Dyspnée d'effort
+Reste de l'examen sans particularités
+
+Biologie : , Son nombre de globules blancs est de 9,4G/L, son hémoglobine de 13,0g/dL, son hématocrite de 38 % et ses plaquettes de 365G/L. Chlorure 104mM, calcium ionisé 1.7mM, phosphatase alcaline 104, AST 16, ALT 12, bilirubine totale 50mg/L, protéines totales 76g/L, albumine 35g/L. Son INR est de 1
+
+Données d'imagerie :
+IRM du cerveau le 23/12/08 :
+- légère maladie de la substance blanche
+- gliose ischémique pontique minimale
+- petit angiome veineux incident dans la substance blanche profonde fronto-postérieure gauche
+- pas de signes de métastase cérébrale, d'hémorragie ou d'infarctus aigu
+
+Conclusion :
+Patient de 47 ans présentant un CBNPC métastatique. À ce stade, lui et sa femme ont demandé s'il s'agissait d'une maladie curable, ce à quoi je leur ai répondu qu'elle n'était pas curable, mais traitable. Sa femme a particulièrement eu du mal à accepter ce pronostic. Ils ont préféré ne pas connaître la durée de vie moyenne d'une personne atteinte de cette maladie. Devant le bon état général, je leur ai proposé une chimiothérapie par 6 cycles de 3 cures de carboplatine/gemcitabine à 1 semaine d'intervalle, qui a démontré un bénéfice dans cette indication en ce qui concerne les symptômes et la durée de vie. J'ai abordé brièvement les effets secondaires, y compris, mais non exclusivement, les troubles gastro-intestinaux, la diarrhée, les nausées, les vomissements, la mucosite, l'asthénie, l'anorexie, la cytopénie (y compris le besoin possible de transfusion ainsi que le risque d'infections, qui dans certains cas rares peuvent être mortelles). 
+Consultation en CETD prévue. Sortie envisageable une fois douleur maîtrisée.
+Je reverrai le patient en ambulatoire pour planifier l'organisation de la chimiothérapie (RDV à prendre)

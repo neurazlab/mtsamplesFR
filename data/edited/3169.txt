@@ -1,0 +1,52 @@
+DIAGNOSTIC :
+1. Coagulation intravasculaire disséminée.
+2. Pneumonie streptococcique avec septicémie.
+
+PLAINTE FONCTIONNELLE : 
+Inconnue; la patiente est intubée pour une insuffisance respiratoire.
+
+HISTOIRE DE LA MALADIE ACTUELLE : 
+Il s'agit d'une femme de 20 ans qui a présenté des symptômes de pneumonie et a développé une septicémie et une insuffisance respiratoire aiguë nécessitant une intubation. À l'heure actuelle, elle est traitée de manière agressive avec une ventilation mécanique et d'autres mesures de soutien hémodynamique et a développé une coagulation intravasculaire disséminée avec un temps de céphaline prolongé, un temps de prothrombine et un fibrinogène effondrés et une élévation des D-dimères. 
+
+On me demande un avis pour évaluation spécialisée et recommandation concernant les traitements.
+
+Les infirmières rapportent qu'elle s'est améliorée cliniquement au cours des dernières 24 heures. Notamment les problèmes de saignements se sont améliorés après la transfusion de facteurs de la coagulation et de plaquettes.
+
+ANTÉCÉDENTS MÉDICAUX : 
+Il n'y a pas d'antécédents de coagulopathie.
+Sinon inconnus, tout comme les antécédents chirurgicaux.
+
+CONTEXTE SOCIALE : 
+Drogues illicites possibles. 
+Sa famille est présente et j'ai informé sa mère et sa sœur sur la gravité de la situation.
+
+ANTÉCÉDENTS FAMILIAUX : 
+Non contributifs.
+
+EXAMEN CLINIQUES : 
+GÉNÉRAL : C'est une jeune femme noire sédatée et stable, en décubitus dorsal, intubée.
+CONSTANTES : la fréquence cardiaque est à 67bpm, la tension artérielle de 100/60 mmHg et la fréquence respiratoire sous ventilation mécanique d'environ 14 à 16 cycles par minute.
+ORL : Il y a une hémorragie conjonctivale. Il n'y a pas de pétéchies. Ses narines sont dégagés. Le tube est en place dans l'oropharynx.
+COU : Pas de turgescence jugulaire.
+PULMONAIRE : Claire et symétrique.
+COEUR : Bruits du coeur réguliers sans souffle.
+ABDOMEN : souple et non sensible, bruits intestinaux perçus. 
+Léger suintement autour du site de la voix veineuse centrale.
+
+EXTRÉMITÉS : Pas d'hématomes, de cyanose ou d'œdème. Pas de signe de bas débit périphérique.
+
+ÉTUDES DE LABORATOIRE : 
+Les paramètres de CIVD :
+- plaquettes à 50 000 /mL 
+- INR à 2,4
+- TP normal ce jour
+- fibrinogène à 200
+- D-dimère à 13
+
+CONCLUSION : 
+CIVD dans un contexte de septicémie sur pneumocoque. 
+
+CONDUITE A TENIR :
+Ma recommandation pour cette patiente est de continuer les transfusions de facteurs de la coagulaiton. L'évulation clinique semble être favorable et les transfusions sont probablement la meilleure mesure à l'heure actuelle. Il n'y a aucune indication à ce stade pour du XIGRIS. Cependant, si sa coagulopathie ne se résout pas dans les 24 heures mais continue de s'améliorer avec augmentation du fibrinogène et normalisation des temps de coagulation, j'envisagerai l'héparine en perfusion continue à faible dose pour stopper la consommation des facteurs de coagulation et je poursuivrai les perfusions de soutien. 
+
+Je surveillerai le bilan biologique de demain matin et donnerai plus de recommandations à ce moment-là.
