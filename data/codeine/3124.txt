@@ -1,1 +1,32 @@
-DIAGNOSTIC PRÉOPÉRATOIRE :, Carcinome invasif du sein gauche.,DIAGNOSTIC POSTOPÉRATIF :, Carcinome invasif du sein gauche.,OPÉRATION RÉALISÉE :, Mastectomie radicale modifiée gauche.,ANESTHÉSIE : , Endotrachéale générale.,INDICATION POUR LA PROCÉDURE : ,Le patient est un 52 Une femme de 1 an qui a récemment subi une biopsie du sein gauche et qui a été diagnostiquée avec un carcinome invasif du sein gauche. La patiente a été choisie pour subir une mastectomie radicale modifiée gauche, elle n'était pas intéressée par une mastectomie partielle. Elle est consciente des risques et des complications de la chirurgie et a souhaité procéder.,DESCRIPTION DE LA PROCÉDURE : ,La patiente a été emmenée au bloc opératoire. Elle a subi une anesthésie générale endotrachéale. Les bas TED et les dispositifs de compression veineuse ont été placés sur les deux membres inférieurs et ils fonctionnaient bien. La paroi thoracique antérieure gauche, le cou, l'aisselle et le bras gauche du patient ont été préparés et drapés de la manière stérile habituelle. Le site de biopsie récent était situé dans le quadrant supérieur et externe du sein gauche. L'incision simple a été marquée le long de la peau. Les tissus et les lambeaux ont été injectés avec de la marcaïne à 0,25 % avec une solution d'épinéphrine, puis une incision elliptique transversale a été pratiquée dans le sein de la peau pour inclure le complexe aréolaire du mamelon ainsi que le site de biopsie récent. Les lambeaux ont été soulevés vers le haut et juste en dessous de la clavicule en dedans du sternum, latéralement vers le latissimus dorsi, rectus abdominus fascia. Suite à cela, le tissu mammaire ainsi que le fascia grand pectoral ont été disséqués du muscle grand pectoral. La dissection était débutée médialement et étendue latéralement vers l'aisselle gauche. Le sein a été retiré puis le contenu axillaire a été disséqué. La veine et l'artère axillaire gauche ont été identifiées et préservées ainsi que le poumon _____. Le patient avait plusieurs ganglions lymphatiques cliniquement palpables, ils ont été retirés avec la dissection axillaire. Des précautions ont été prises pour éviter de blesser l'une quelconque des structures neurovasculaires mentionnées ci-dessus. Une fois les tissus irrigués, nous nous sommes assurés qu'il n'y avait aucun signe de saignement. L'hémostase avait été obtenue avec des Hemoclips. Des drains Hemovac x2 ont ensuite été introduits et placés sous l'aisselle gauche ainsi que dans les lambeaux mammaires supérieur et inférieur. Le subcu a ensuite été rapproché avec des sutures Vicryl 4-0 interrompues et de la peau avec des clips. Les drains ont été suturés à la paroi thoracique avec des sutures en nylon 3-0. Un pansement a été appliqué et la procédure a été terminée. Le patient est allé à la salle de réveil dans un état stable.
+DIAGNOSTIC PRÉOPÉRATOIRE:
+Carcinome invasif du sein gauche
+
+DIAGNOSTIC POSTOPÉRATOIRE :
+Carcinome invasif du sein gauche
+
+OPÉRATION RÉALISÉE :
+Mastectomie totale gauche.
+
+ANESTHÉSIE : 
+Anesthesie générale.
+Intubation endotrachéale.
+
+INDICATION CHIRURGICALE : 
+Patiente de 52 ans avec biopsie du quandrant superieur externe gauche retrouvant un carcinome invasif
+Décision de réaliser une mastectomie totale gauche (patiente refusant la mastectomie partielle)
+Patiente consciente des risques et compliations opératoires possibles.
+
+
+DESCRIPTION DE L'INTERVENTION : 
+Anesthésie générale
+Injection de marcaïne à 0,25 % avec solution d'épinéphrine
+
+Incision simple réalisée, incluant l'auréole et le site de la biopsie.
+Les lambeaux ont été soulevés vers le haut et juste en dessous de la clavicule en dedans du sternum, puis le tissu mammaire et le grand pectoral ont été disséqués 
+La dissection a été débutée médialement et étendue latéralement vers l'aisselle gauche. 
+Le sein a été retiré avec les ganglions axillaires adjacents. La veine et l'artère axillaire gauche et les structures nerveuses ont été préservées.
+
+Pas de saignement visible après irrigation des tissus. Hémostase obtenue avec des Hemoclips. Sutures Vicryl 4-0 et en nylon 3-0. 
+
+A la fin de l'intervention: patiente conduite en salle de réveil dans un état stable.
+
