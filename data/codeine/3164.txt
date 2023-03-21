@@ -1,15 +1,16 @@
-PLAINTE PRINCIPALE :
-,1. Cancer de l'endomètre de stade IIIC.
-,2. Chimiothérapie adjuvante avec du cisplatine, de l'adriamycine et de l'abraxane., 
+MOTIF D'HOSPITALISATION  :
+1. Cancer de l'endomètre de stade IIIC.
+2. Chimiothérapie adjuvante par cisplatine, adriamycine et abraxane.
 
-ANTÉCÉDENTS DE LA MALADIE ACTUELLE : 
-, La patiente est une femme de 47 ans qui a présenté des saignements vaginaux anormaux à l'automne 2009. En mars 2010, elle a eu un endométrial anormal. échographie avec épaississement de l'endomètre et utérus agrandi. La tomodensitométrie de l'abdomen du 22/03/2010 a montré un utérus élargi, un épaississement de l'endomètre et une structure de masse dans les annexes droite et gauche suspectes de métastases ovariennes. Le 01/04/2010, elle a subi une hystérectomie radicale modifiée robotisée avec salpingo-ovariotomie bilatérale et appendicectomie avec lymphadénectomie pelvienne et périaortique. La pathologie était positive pour un adénocarcinome de l'endomètre de grade III, mesurant 9,5 cm avec 2 cm d'envahissement. Quatre des 30 ganglions lymphatiques étaient positifs pour la maladie. L'ovaire gauche était positif pour la maladie métastatique. La TEP/TDM post-chirurgicale a montré un sérome de la paroi latérale pelvienne inférieure gauche et des ganglions lymphatiques rétropéritonéaux abdominaux et pelviens droits hypermétaboliques suspects de maladie métastatique. Le patient a terminé cinq des six cycles de chimiothérapie prévus et se présente à la clinique aujourd'hui pour un suivi. Il convient de noter que nous avions envoyé des tests génétiques qui avaient été refusés en juin. J'ai essayé de terminer ce test.
+HISTOIRE DE LA MALADIE : 
+Patiente de 47 ans ayant présenté des saignements vaginaux anormaux en automne 2009. En mars 2010, elle a réalisé une échographie endovaginale qui a montré épaississement de l'endomètre associée à une hypertrophie utérine. Le TAM abdominal du 22/03/2010 a confirmé l'hypertrophie utérine et enfométriale et retrouvait des masses annexielles droite et gauche, suspectes de métastases ovariennes. Le 01/04/2010, elle a subi une hystérectomie totale modifiée robotisée avec salpingo-ovariotomie bilatérale et appendicectomie avec lymphadénectomie pelvienne et périaortique. L'anatomopahtologie était positive et retrouvait un adénocarcinome de l'endomètre de grade III, mesurant 9,5 cm avec 2 cm d'envahissement. Quatre des 30 ganglions lymphatiques étaient envahis. L'ovaire gauche était également le siège d'une métastase. Le TEP/TDM post-chirurgicale a montré un épanchement seureux en regard de la paroi latérale pelvienne inférieure gauche et des ganglions lymphatiques rétropéritonéaux abdominaux et pelviens droits hypermétaboliques suspects de maladie métastatique. La patiente a terminé cinq des six cycles de chimiothérapie prévus et se présente à la clinique aujourd'hui pour un suivi. Il convient de noter que nous avions envoyé des tests génétiques en juin mais ceux ci avaient été refusés. J'ai essayé de relancer ce test.
 
-,MÉDICAMENTS ACTUELS : 
-Synthroid q.d., 
-sulfate ferreux 325 mg b.i.d., 
-multivitamine q.d., 
-Ativan 0,5 mg q.4 heures p.r.n. nausées et insomnie, 
-gabapentine un comprimé au coucher.,
+MÉDICAMENTS ACTUELS : 
+Levothyrox - matin et soir, 
+Sulfate ferreux - 325 mg toutes les 6 heures, 
+Multivitamine - matin et soir, 
+Ativan 0,5 mg - toutes les 4 heures en cas de nausées ou d'insomnie, 
+Gabapentine - 1 comprimé au coucher.,
 
-ALLERGIES :
+ALLERGIES : Aucune
+
