@@ -1,1 +1,17 @@
-DIAGNOSTIC PRÉOPÉRATOIRE : , Mésothéliome.,DIAGNOSTIC POSTOPÉRATIF :, Mésothéliome.,PROCÉDURE OPÉRATOIRE : , Placement de Port-A-Cath, veine sous-clavière gauche avec fluoroscopie.,ASSISTANT :, Aucun.,ANESTHÉSIE : , Endotrachéale générale.,COMPLICATIONS :, Aucune .,DESCRIPTION DE LA PROCÉDURE : , Le patient est un homme de 74 ans qui a subi une thoracoscopie droite et s'est avéré avoir un mésothéliome prouvé par biopsie. Il a été amené à la salle d'opération maintenant pour le placement de Port-A-Cath pour la chimiothérapie. Après avoir obtenu le consentement éclairé du patient, le patient a été emmené au bloc opératoire, placé en décubitus dorsal. Après l'induction de l'anesthésie endotrachéale générale, la préparation de routine et le drapage de la poitrine gauche, la veine sous-clavière gauche a été canulée avec une aiguille de gaze #18 et un fil de guidage a été inséré. L'aiguille a été retirée. Une petite incision a été faite assez grande pour abriter le port. Le dilatateur et les introducteurs ont ensuite été placés sur le guide. Le guide et le dilatateur ont été retirés et un Port-A-Cath a été introduit dans la veine sous-clavière par les introducteurs. Les introducteurs ont été retirés sans difficulté. Il a mesuré avec la fluoroscopie et coupé à la longueur appropriée. L'extrémité du cathéter se trouvait à la jonction de la veine cave supérieure et de l'oreillette droite. Il était alors relié au hub du port. Le port a ensuite été aspiré pour la perméabilité et rincé avec une solution saline héparinée et convoqué sur la paroi thoracique. Les plaies ont ensuite été refermées. Le nombre d'aiguilles, le nombre d'éponges et le nombre d'instruments étaient tous corrects.
+DIAGNOSTIC PRÉOPÉRATOIRE :
+Mésothéliome
+
+PROCÉDURE OPÉRATOIRE : Pose de PAC en sous-clavier gauche contrôle fluoroscopique
+
+ASSISTANT : Aucun
+
+ANESTHÉSIE : Générale avec IOT
+
+COMPLICATIONS : Aucune 
+
+DESCRIPTION DE LA PROCÉDURE :
+Homme de 74 ans ayant bénéficié d'une thoracoscopie droite révélant un mésothéliome. Décision de traitement par chimiothérapie. Pose de PAC ce jour
+Installation en DD. Induction. Préparation, champage et stérilisation selon les pratiques habituelles. Canulage de la veine sous-clavière gauche avec une aiguille de gaze #18 et insertion d'un fil de guidage. Retrait de l'aiguille. Une petite incision a été faite assez grande pour abriter le PAC. Le dilatateur et les introducteurs ont ensuite été placés sur le guide. Le guide et le dilatateur ont été retirés et un PAC a été introduit dans la veine sous-clavière par les introducteurs. Les introducteurs ont été retirés sans difficulté. Il a mesuré par fluoroscopie et coupé à la longueur appropriée. L'extrémité du cathéter se trouvait à la jonction de la veine cave supérieure et de l'oreillette droite. Il était alors relié au hub du port. Le port a ensuite été aspiré pour vérification de la perméabilité et rincé avec une solution saline héparinée. Fixation à la paroi thoracique. Les plaies ont ensuite été refermées. Le nombre d'aiguilles, le nombre d'éponges et le nombre d'instruments étaient tous corrects.
+
+DIAGNOSTIC POSTOPÉRATOIRE :
+Mésothéliome
