@@ -1,1 +1,22 @@
-ANTÉCÉDENTS DE LA MALADIE ACTUELLE :, Le patient a un cas connu de lymphome marginal à cellules B pour lequel il a subi une splénectomie il y a deux ans. L'année dernière, le patient a développé un lymphome diffus à grandes cellules B qui a été traité par CHOP/réduction. Le patient est de nouveau entré en rémission complète. Le patient allait bien jusqu'à récemment, il y a quelques jours, à la fin de la semaine dernière, lorsqu'il a développé un gonflement du testicule gauche. Le patient déclare avoir de la fièvre et des frissons depuis quelques jours. Le patient se sentait faible et ne se sentait pas bien. Le patient avec ces plaintes est venu aux urgences. Le patient a eu de la fièvre et des frissons et le patient déclare que la douleur dans le testicule gauche est plutôt intense. Aucun antécédent de traumatisme au testicule.,ANTÉCÉDENTS MÉDICAUX :,1. Statut post splénectomie.,2. Antécédents de lymphome marginal à cellules B.,3. Antécédents de lymphome diffus à grandes cellules.,ALLERGIES : , Aucune.,HISTOIRES PERSONNELLES : , Fumant et buvant de l'alcool, mais pas actuellement.,HISTOIRES FAMILIALES :, Non contributifs.,EXAMEN DES SYSTÈMES :,HEENT : A de légers maux de tête., CARDIOVASCULAIRE : aucun antécédent d'hypertension, d'infarctus du myocarde, etc.,RESPIRATOIRE : aucun antécédent de toux, d'asthme, de tuberculose, d'essoufflement.,GI : non remarquable.,GU : comme ci-dessus, a développé un gonflement douloureux du testicule gauche au cours des dernières années jours.,ENDOCRINE : Cas connu de diabète sucré de type II.,EXAMEN PHYSIQUE :,HEENT : Pas de pâleur conjonctivale ni d'ictère.,COU : Pas d'adénopathie. Pas de bruits carotidiens.,POUMONS : Clairs.,CŒUR : Pas de galop ni de murmure.,ABDOMEN :
+HISTOIRE DE LA MALADIE :
+Le patient a un lymphome marginal à cellules B pour lequel il a subi une splénectomie il y a deux ans. L'année dernière, il a développé un lymphome diffus à grandes cellules B qui a été traité par CHOP/réduction. Le patient est de nouveau entré en rémission complète. Le patient allait bien jusqu'à récemment. 
+Il y a quelques jours, à la fin de la semaine dernière, il a développé un gonflement du testicule gauche. Le patient déclare avoir de la fièvre et des frissons depuis quelques jours. Le patient se sentait faible et ne se sentait pas bien. Il s'est présenté aux urgences. Il déclare que la douleur dans le testicule gauche est plutôt intense. Aucun antécédent de traumatisme au testicule.
+
+ANTÉCÉDENTS MÉDICAUX :
+1. Statut post splénectomie.
+2. Antécédents de lymphome marginal à cellules B.
+3. Antécédents de lymphome diffus à grandes cellules.
+
+ALLERGIES : Aucune.
+
+HISTOIRES PERSONNELLES : 
+Fumant et buvant de l'alcool, mais pas actuellement.
+
+HISTOIRES FAMILIALES : RAS
+
+EXAMEN CLINIQUE :
+Le patient présente de légers céphalés
+Gonflement douloureux du testicule gauche au cours des derniers jours.
+Diabète de type II.
+
+Le reste de l'examen est normal.
