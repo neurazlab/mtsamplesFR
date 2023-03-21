@@ -1,1 +1,40 @@
-DIAGNOSTIC :, Polycythemia vera avec myélofibrose secondaire.,RAISON DE LA VISITE :, Suivi de l'état ci-dessus.,PLAINTE PRINCIPALE : , Douleur au tibia gauche.,HISTOIRE DE LA MALADIE ACTUELLE : , Un homme de race blanche de 55 ans qui porte un diagnostic de polycythémie vraie avec myélofibrose secondaire. Le diagnostic a été fait quelque temps en 2005/2006. Au départ, il a subi une phlébotomie. Il a ensuite transféré ses soins ici. Dans le passé, il prenait de l'hydroxyurée et de l'interféron, mais ne tolérait pas les deux. Il est JAK-2 positif. Il n'a pas de frères et sœurs pour une greffe liée au match. Il a été vu pour envisager une greffe de MUD, mais a été jugé non candidat en raison du soutien social ainsi que de sa santé raisonnablement bonne. Dans notre établissement, le patient a reçu un essai de lénalidomide et de prednisone pendant une courte période. Il a bien réussi la combinaison. Par la suite, il a développé une intolérance au lénalidomide. Il s'est plaint de fatigue intense et de diarrhée. Cela a été arrêté par la suite. Le patient signale une blessure à la jambe gauche la semaine dernière. Sa jambe gauche était apparemment enflée. Il a pris des stéroïdes pendant environ 3 jours et a arrêté. Le gonflement de la jambe gauche a disparu. Le patient nie toute autre plainte à ce stade. Il avoue avoir fumé de la marijuana. Il dit que cela lui donne un grand appétit et qu'il a en fait pris du poids. L'état de performance sur l'échelle ECOG est de 1.,EXAMEN PHYSIQUE :,SIGNAUX VITAUX : il est apyrétique. Tension artérielle 144/85, pouls 86, poids 61,8 kg et fréquence respiratoire 18 par minute. GÉNÉRAL : Il n'est pas en détresse aiguë. HEENT : Il n'y a pas de pâleur, d'ictère ou d'adénopathie cervicale qui est notée. La cavité buccale est normale à l'examen. POITRINE : Claire à l'auscultation. CARDIOVASCULAIRE : S1 et S2 normaux avec fréquence et rythme réguliers. ABDOMEN : Doux et non douloureux sans hépatomégalie. La rate est palpable à 4 largeurs de doigt sous le rebord costal gauche. Il n'y a pas de garde, de tendresse, de rebond ou de rigidité constatée. Des bruits intestinaux sont présents. EXTRÉMITÉS : Ne révèle aucun œdème. La palpation du tibia gauche a révélé une légère sensibilité. Cependant, je ne palpe aucune anomalie osseuse. Il n'y a pas d'antécédents de thrombose veineuse profonde.,DONNEES DE LABORATOIRE : , Le CBC à partir d'aujourd'hui est significatif pour un nombre de blancs de 41 900 avec un nombre absolu de neutrophiles de 34 400, une hémoglobine de 14,8 avec un VGM de 56,7 et un nombre de plaquettes de 235 000.,ÉVALUATION ET PLAN :,1. Trouble myéloprolifératif JAK-2 positif. Le patient a échoué à peu près toutes les options disponibles. Il n'est pas candidat au chlorambucil ou au phosphore radioactif en raison de son jeune âge et du risque de malignité secondaire. J'ai envoyé un e-mail au Dr X pour savoir s'il serait candidat à l'essai LBH. Espérons que nous pourrons obtenir rapidement un essai d'inhibiteur de JAK-2.,2. Je suis préoccupé par le risque de thrombose avec son nombre élevé de blancs. Il est sous prophylaxie à l'aspirine. On a dit au patient de m'appeler pour toute plainte.,3. Douleur au tibia gauche. J'ai demandé des radiographies du tibia gauche et du genou aujourd'hui. Le patient reviendra à la clinique dans 3 semaines. Il doit m'appeler dans l'intervalle pour tout problème.
+DIAGNOSTIC :
+Polyglobulie de Vaquez avec myélofibrose secondaire
+
+
+MOTIF DE CONSULTATION : 
+Douleur au tibia gauche
+
+HISTOIRE DE LA MALADIE : 
+Homme de 55 ans atteint de la polyglobulie de vaquez avec myélofibrose secondaire. Patient JAK-2 positif. Diagnostic fait en 2005/2006.
+Dans le passé, a été traité par hydroxyurée et interféron. Puis arrêt pour mauvaise tolérance.
+Puis instauration d'un traitement par lénalidomide et prednisone pendant une courte période. Puis arrêt pour mauvaise tolérance (fatigue intense, diarrhée).
+Patient non eligible à la greffe de moelle. Pas de frères et soeurs.
+
+
+La semaine dernière : blessure à la jambe gauche avec oedème. Disparition de l'oedème après la prise de corticoïdes pendant 3 jours.Pas d'autres symptômes.
+Prise de marijuana avec augmentation de l'appétit ayant conduit à une prise de poids récente.
+
+
+EXAMEN CLINIQUE 
+Etat général : apyrétique, TA à 144/85, pouls à 86, poids à 61,8Kg, et FR=18/min. 
+
+ORL : pas de pâleur, pas d'ictère, pas d'adénopathie cervicale, cavité buccale normale. 
+cardiopulmonaire: ausculation normale
+abdo : abdomen souple et dépressible sans hépatomégalie. Rate palpable à 4 largeurs de doigt sous le rebord costal gauche. BHA +
+membres inf: pas d'oedème. Sensibilité du tibia gauche. Pas de phlébite
+
+
+Bio :  
+NFS : globules blancs à 41 900 avec un nombre absolu de neutrophiles à 34 400, une hémoglobine à 14,8 avec un VGM à 56,7 et des plaquettes à 235 000
+
+
+CAT :
+1. Trouble myéloprolifératif JAK-2 positif. Echec de tous les traitements possibles. Patient non eligible au chlorambucil ou au phosphore radioactif en raison de son jeune âge et du risque de malignité secondaire. 
+J'ai envoyé un e-mail au Dr X pour savoir s'il serait candidat à l'essai LBH. Espérons que nous pourrons obtenir rapidement un essai avec les inhibiteurs de JAK-2.
+
+2.Je suis préoccupé par le risque de thrombose lié au nombre élevé de globules blancs. Je l'ai mis sous Aspirine en prophylaxie et je lui demande de m'appeler en cas d'apparition de nouveaux symptômes
+
+3. Pour la douleur au tibia gauche, je lui prescris une radiographie du tibia gauche et du genou. 
+
+Le patient reviendra à la clinique dans 3 semaines. Il doit m'appeler dans l'intervalle en cas de problème.
